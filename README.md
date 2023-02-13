@@ -22,7 +22,7 @@ git clone https://github.com/[YOUR_USERNAME]/text-summarization-generative-model
 
 pip install -r requirements.txt
 
-    ## Run the app:
+## Run the app:
 
 streamlit run app.py
 
