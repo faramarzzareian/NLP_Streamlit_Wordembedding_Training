@@ -1,4 +1,4 @@
-# NLP_Streamlit_Wordembedding_Training
+# NLP Streamlit Word embedding Model Training
 ### Text Summarization Generative Model
 
 This repository contains a Streamlit app that trains a word embedding model for text summarization using the gensim library.
